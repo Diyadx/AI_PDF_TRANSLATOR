@@ -21,7 +21,7 @@ if st.button("Clear Cache"):
 
 uploaded_file = st.file_uploader("Upload a PDF file", type=["pdf"])
 target_lang = st.text_input("Enter target translation language (e.g. Hindi, French, Spanish):")
-api_key = st.text_input("Enter your Groq API Key:", type="password")
+api_key = st.text_input("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", type="password")
 
 
 def pdf_to_text(pdf_bytes):
