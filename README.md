@@ -3,7 +3,7 @@
 
 A smart AI-powered tool that converts scanned PDF files into readable, translatable, and audible text using OCR (PyTesseract), LangChain, and Streamlit.
 
-🌐 Live Demo: Streamlit App
+🌐 Live Demo: Streamlit App: https://aipdftranslator-ceia53zhhy3rqqwdxjrgbx.streamlit.app/
 
 💻 Tech Stack: Python, PyTesseract, LangChain, Streamlit, gTTS, PDF2Image
 
