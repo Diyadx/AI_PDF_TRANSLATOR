@@ -1,0 +1,12 @@
+pdf2image
+Pillow
+pytesseract
+streamlit
+textblob
+poppler-utils
+langchain
+langchain-google-genai
+langchain-groq
+PyPDF2
+gTTS
+streamlit-TTS
